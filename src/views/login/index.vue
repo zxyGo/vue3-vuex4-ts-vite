@@ -27,7 +27,7 @@
               class="form--input"
             >
               <template #prefix>
-                <i class="el-input__icon el-icon-password"></i>
+                <i class="el-input__icon el-icon-lock"></i>
               </template>
             </el-input>
           </el-form-item>
